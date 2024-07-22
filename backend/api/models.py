@@ -22,3 +22,5 @@ class Note(models.Model):
 
     class Meta:
         ordering = ['-updated']
+
+        
